@@ -14,19 +14,19 @@ This website will be about Dahlias
 
 My favorite Dahlia variety is called 'Cafe au Lait'. This year I have ordered 3 tubers which I hope to take cuttings from to make even more. In autumn I will dig them up and store them in the shed and repeat the process next spring.
 
-# Typography
+## Typography
 
 - [Heading] Playfair Bold 700
 - [Paragraph] Quicksand Light 300
 
 Code
 
-<link rel="preconnect" href="https://fonts.gstatic.com"> 
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Quicksand:wght@300&display=swap" rel="stylesheet">
+<!-- <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Quicksand:wght@300&display=swap" rel="stylesheet"> -->
 
-<style>
+<!-- <style>
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Quicksand:wght@300&display=swap');
-</style>
+</style> -->
 
 font-family: 'Playfair Display', serif;
 font-family: 'Quicksand', sans-serif;
